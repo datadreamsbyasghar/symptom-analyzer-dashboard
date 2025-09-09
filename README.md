@@ -62,6 +62,22 @@ This tool is for educational and exploratory use only. It does not replace profe
 
 ---
 
+## 🌐 Live Demo
+
+Try the dashboard here: [Streamlit App](https://your-streamlit-url.streamlit.app)
+
+---
+
+## 📁 GitHub Repository
+
+View the full code: [GitHub Repo](https://github.com/datadreamsbyasghar/symptom-analyzer-dashboard)
+
+---
+
+## 💼 Fiverr Gig
+
+Hire me on Fiverr: [Fiverr Profile](https://www.fiverr.com/your-profile-link)
+---
 ## 👑 Author
 
 **Ali Asghar**  
