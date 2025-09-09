@@ -43,7 +43,7 @@ An AI-powered disease prediction dashboard built with **Streamlit**, using **Ran
 
 3. Run the app  
    ```bash
-   streamlit run app.py
+   streamlit run app1.py
    ```
 
 ---
