@@ -10,7 +10,7 @@ An AI-powered disease prediction dashboard built with **Streamlit**, using **Ran
 - ✅ Confidence scores for each possible diagnosis  
 - ✅ Decision Tree-based feature importance chart  
 - ✅ Input validation for empty symptom cases  
-- ✅ Clean, checkbox-based UI for fast symptom selection  
+- ✅ Clean, checkbox-based UI for fast symptoms selection  
 - ✅ Deployable on Streamlit Cloud  
 - ✅ Ready for customization based on client data
 
