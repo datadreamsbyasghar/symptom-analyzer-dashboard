@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load models
-rf_model = joblib.load(r"D:\ML\Random Forest\rf_model.pkl")
-dt_model = joblib.load(r"D:\ML\Decision Tree\dt_model.pkl")  # For feature importance only
+rf_model = joblib.load("rf_model.pkl")
+dt_model = joblib.load("dt_model.pkl")  # For feature importance only
 
 # Page setup
 st.set_page_config(page_title="Symptom Analyzer", layout="centered")
@@ -69,3 +69,4 @@ st.pyplot(fig)
 # Footer
 st.markdown("---")
 st.caption("Built by Ali 👑 — Powered by Random Forest & Decision Tree logic.")
+
