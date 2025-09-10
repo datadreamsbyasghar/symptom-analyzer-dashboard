@@ -4,14 +4,20 @@ An AI-powered disease prediction dashboard built with **Streamlit**, using **Ran
 
 ---
 
+## 🌐 Live Demo
+
+Try the dashboard here: [Streamlit App](https://symptom-analyzer-dashboard.streamlit.app)
+
+---
+
 ## 🚀 Features
 
-- ✅ Random Forest model for accurate disease prediction  
-- ✅ Confidence scores for each possible diagnosis  
-- ✅ Decision Tree-based feature importance chart  
+- ✅ Predicts disease based on selected symptoms  
+- ✅ Confidence scores for each diagnosis (e.g., FLU: 0.83)  
+- ✅ Decision Tree chart showing symptom importance  
 - ✅ Input validation for empty symptom cases  
-- ✅ Clean, checkbox-based UI for fast symptoms selection  
-- ✅ Deployable on Streamlit Cloud  
+- ✅ Clean, checkbox-based UI for fast symptom selection  
+- ✅ Fully deployable on Streamlit Cloud  
 - ✅ Ready for customization based on client data
 
 ---
@@ -43,7 +49,7 @@ An AI-powered disease prediction dashboard built with **Streamlit**, using **Ran
 
 3. Run the app  
    ```bash
-   streamlit run app1.py
+   streamlit run app.py
    ```
 
 ---
@@ -62,22 +68,6 @@ This tool is for educational and exploratory use only. It does not replace profe
 
 ---
 
-## 🌐 Live Demo
-
-Try the dashboard here: [Streamlit App](https://your-streamlit-url.streamlit.app)
-
----
-
-## 📁 GitHub Repository
-
-View the full code: [GitHub Repo](https://github.com/datadreamsbyasghar/symptom-analyzer-dashboard)
-
----
-
-## 💼 Fiverr Gig
-
-Hire me on Fiverr: [Fiverr Profile](https://www.fiverr.com/your-profile-link)
----
 ## 👑 Author
 
 **Ali Asghar**  
